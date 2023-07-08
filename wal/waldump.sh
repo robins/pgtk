@@ -1,4 +1,3 @@
-
 BINDIR='/home/ubuntu/proj/tempdel/bin'
 WALDIR='/home/ubuntu/proj/tempdel/data/pg_wal'
 WALTXTDIR='/home/ubuntu/proj/tempdel/waltxt'
